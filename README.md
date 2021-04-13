@@ -1,1 +1,1 @@
-# react-typescript-jest-boilerplate
+# boilerplate-react-typescript-jest
